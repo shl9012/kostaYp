@@ -1,0 +1,8 @@
+.settings/
+/target/
+.classpath
+.jar
+*.class
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
