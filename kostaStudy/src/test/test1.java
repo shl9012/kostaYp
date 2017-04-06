@@ -12,7 +12,7 @@ public class test1 {
 		System.out.println("이름을 입력하세요: ");
 		String name = input.next();
 		naming(name);
-		if(input.equals("exit")) {
+		if(name.equals("exit")) {
 			flag = false;
 		}
 		}
