@@ -20,5 +20,6 @@ public class test1 {
 
 	private static void naming(String name) {
 		System.out.println("name: " + name);
+		System.out.println("다시 입력중");
 	}
 }
